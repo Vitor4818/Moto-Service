@@ -1,0 +1,12 @@
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\bin\Debug\net9.0\MotoModel.deps.json
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\bin\Debug\net9.0\MotoModel.dll
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\bin\Debug\net9.0\MotoModel.pdb
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\obj\Debug\net9.0\MotoModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\obj\Debug\net9.0\MotoModel.AssemblyInfoInputs.cache
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\obj\Debug\net9.0\MotoModel.AssemblyInfo.cs
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\obj\Debug\net9.0\MotoModel.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\obj\Debug\net9.0\MotoModel.dll
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\obj\Debug\net9.0\refint\MotoModel.dll
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\obj\Debug\net9.0\MotoModel.pdb
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\obj\Debug\net9.0\ref\MotoModel.dll
+C:\Users\Vitor Gomes\Documents\heimdallwebapi\motoService\MotoModel\obj\Debug\net9.0\MotoModel.sourcelink.json
